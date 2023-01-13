@@ -6,6 +6,16 @@ public class Main {
 
 	public static void main(String[] args) {
 
+		/**
+		 * hola
+		 * 
+		 * 
+		 * 
+		 * 
+		 * 
+		 * adios
+		 * 
+		 */
 		String s = "holaqef";
 
 		if (s.length() % 2 != 0) {
