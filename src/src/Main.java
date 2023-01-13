@@ -7,13 +7,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		/**
-		 * hola
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * adios
+		 * Mis Katas
 		 * 
 		 */
 		String s = "holaqef";
