@@ -7,7 +7,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		Prueba prueba = new Prueba("Hola");
+		Prueba prueba = new Prueba("HolaMundo");
 		System.out.println(prueba.Nombre);
 
 		Scanner sc = new Scanner(System.in);
