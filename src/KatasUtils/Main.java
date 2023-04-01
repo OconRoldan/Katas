@@ -6,24 +6,28 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
+		
+		
+		
 
 		Prueba prueba = new Prueba("HolaMundo");
 		System.out.println(prueba.Nombre);
 
 		Scanner sc = new Scanner(System.in);
+		//sjdkdskd
 
-		System.out.println("Inserte un numero");
-		int numero = sc.nextInt();
-
-		System.out.println(numero);
-
-		if (numero % 2 == 0) {
-			System.out.println("Soy par");
-
-		} else {
-			System.out.println("No soy par");
-
-		}
+//		System.out.println("Inserte un numero");
+//		int numero = sc.nextInt();
+//
+//		System.out.println(numero);
+//
+//		if (numero % 2 == 0) {
+//			System.out.println("Soy par");
+//
+//		} else {
+//			System.out.println("No soy par");
+//
+//		}
 
 		/**
 		 * Mis Katas Prueba definitiva.
@@ -59,7 +63,7 @@ public class Main {
 
 		System.out.println(Arrays.asList(partes));
 
-		System.out.println(palabraModificada);
+		System.out.println(palabraModificada + "Hola");
 
 //		int number = -20;
 //		int resultado = 0;
